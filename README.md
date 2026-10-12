@@ -14,12 +14,18 @@
   <a href="https://github.com/DanielAldana-dca?tab=stars">Repositorios destacados</a>
 </p>
 
-Sobre mí
+---
+
+## Sobre mí
+
 Soy desarrollador en formación y me interesa construir proyectos prácticos, aprender nuevas tecnologías y mejorar continuamente mis habilidades. Trabajo en proyectos de programación, aplicaciones web, bases de datos y herramientas para Blender.
+
 - Desarrollo proyectos propios para practicar y consolidar conocimientos.
 - Me interesa el desarrollo de software, la automatización y la creación de herramientas.
 - Mantengo mis avances y proyectos en GitHub.
-Tecnologías y herramientas
+
+## Tecnologías y herramientas
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp">
@@ -33,26 +39,33 @@ Tecnologías y herramientas
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-Proyectos destacados
-BlenderDev - Plan de estudio de extensiones para Blender
+## Proyectos destacados
+
+### BlenderDev - Plan de estudio de extensiones para Blender
 Material organizado por lecciones para aprender a desarrollar extensiones de Blender con Python, con ejemplos, ejercicios y recursos.
-Ver repositorio
-Aprendiendo bases de datos
+
+[Ver repositorio](https://github.com/DanielAldana-dca/BlenderDev-Addon-Study-Plan)
+
+### Aprendiendo bases de datos
 Repositorio de práctica para aprender bases de datos desde los fundamentos, incluyendo SQL y diseño de proyectos.
-Ver repositorio
-Web escuela
+
+[Ver repositorio](https://github.com/DanielAldana-dca/aprendiendo-bases-de-datos)
+
+### Web escuela
 Proyecto web de práctica con tecnologías del desarrollo frontend.
-Ver repositorio
-Más proyectos
-Puedes consultar el resto de mis trabajos en la lista completa de repositorios.
-Estadísticas de GitHub
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielAldana-dca&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAldana-dca&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados">
-</p>
+
+[Ver repositorio](https://github.com/DanielAldana-dca/web-escuela)
+
+### Más proyectos
+
+Puedes consultar el resto de mis trabajos en la [lista completa de repositorios](https://github.com/DanielAldana-dca?tab=repositories).
+
+## Lenguajes más utilizados
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielAldana-dca&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAldana-dca&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más utilizados en mis repositorios públicos">
 </p>
+
+---
 
 <p align="center">Aprender · Crear · Mejorar</p>
